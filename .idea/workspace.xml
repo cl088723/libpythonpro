@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1662844-fb85-467f-b0dd-0fd83a679c84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1622089167880</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="configurado travis ci&#10;&#10;close #13">
+      <created>1622405333436</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1622405333436</updated>
+    </task>
+    <task id="LOCAL-00004" summary="configurado travis ci&#10;&#10;close #13">
+      <created>1622405385978</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1622405385978</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,6 +117,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Suporta versão 3" />
     <MESSAGE value="configurado travis ci" />
-    <option name="LAST_COMMIT_MESSAGE" value="configurado travis ci" />
+    <MESSAGE value="configurado travis ci&#10;&#10;close #13" />
+    <option name="LAST_COMMIT_MESSAGE" value="configurado travis ci&#10;&#10;close #13" />
   </component>
 </project>
