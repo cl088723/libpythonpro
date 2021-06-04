@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1662844-fb85-467f-b0dd-0fd83a679c84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sdist" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1662844-fb85-467f-b0dd-0fd83a679c84" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +129,28 @@
       <option name="project" value="LOCAL" />
       <updated>1622764837041</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Alterado">
+      <created>1622774816754</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1622774816754</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Alterado nome do pacote">
+      <created>1622774835027</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622774835027</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Alterado nome do pacote">
+      <created>1622774931667</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1622774931667</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +173,7 @@
     <MESSAGE value="comit" />
     <MESSAGE value="removendo depencias" />
     <MESSAGE value="Integrado com PyUp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Integrado com PyUp" />
+    <MESSAGE value="Alterado nome do pacote" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alterado nome do pacote" />
   </component>
 </project>
