@@ -94,8 +94,8 @@ def find_package_data(
     return out
 
 
-PACKAGE = "libpythonpro"
-NAME = pacote_cleiton
+PACKAGE = "libpythonpro_cle"
+NAME = libpythonpro_cle
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Renzo Nuccitelli"
 AUTHOR_EMAIL = "renzo@python.pro.br"
