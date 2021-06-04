@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1662844-fb85-467f-b0dd-0fd83a679c84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libpythonpro/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/libpythonpro/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +19,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1t0sg1ccKfcytH0rMG0cka8VSoG" />
@@ -98,7 +105,28 @@
       <option name="project" value="LOCAL" />
       <updated>1622405385978</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="comit">
+      <created>1622762452903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1622762452903</updated>
+    </task>
+    <task id="LOCAL-00006" summary="removendo depencias">
+      <created>1622762542998</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1622762542998</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Integrado com PyUp">
+      <created>1622763389427</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1622763389427</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +146,9 @@
     <MESSAGE value="Suporta versão 3" />
     <MESSAGE value="configurado travis ci" />
     <MESSAGE value="configurado travis ci&#10;&#10;close #13" />
-    <option name="LAST_COMMIT_MESSAGE" value="configurado travis ci&#10;&#10;close #13" />
+    <MESSAGE value="comit" />
+    <MESSAGE value="removendo depencias" />
+    <MESSAGE value="Integrado com PyUp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Integrado com PyUp" />
   </component>
 </project>
